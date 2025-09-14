@@ -10,7 +10,7 @@ This project consolidates data from multiple sources, aligns asset information w
 
 ## Page 1 – Asset Inventory & Install Status
 
-![SOGR Assets Overview](https://github.com/Avimaslow/SOGR/blob/main/Screenshots/SOGRMainPage.png)
+![SOGR Assets Overview]([https://github.com/Avimaslow/SOGR/blob/main/Screenshots/SOGRMainPage.png](https://github.com/Avimaslow/SOGR/blob/main/Screenshots/SOGRMainPageBlackedOut.png))
 
 ### Key Metrics
 - **SOGR Assets** – Total assets in scope (29,467 in this view)  
@@ -32,7 +32,7 @@ This project consolidates data from multiple sources, aligns asset information w
 
 ## Page 2 – Monitors & Asset Cost
 
-![SOGR Monitors](https://github.com/Avimaslow/SOGR/blob/main/Screenshots/MonitorsSogr.png)
+![SOGR Monitors](https://github.com/Avimaslow/SOGR/blob/main/Screenshots/MonitorsSogrBlackedOut.png)
 
 ### Key Metrics
 - **SOGR Monitors** – Total monitors in scope (21,226 in this view)  
@@ -58,7 +58,7 @@ This project consolidates data from multiple sources, aligns asset information w
 
 ## Page 3 – SOGR Planning & Forecasting
 
-![SOGR Forecasting](https://github.com/Avimaslow/SOGR/blob/main/Screenshots/ScenarioPage.png)
+![SOGR Forecasting]([https://github.com/Avimaslow/SOGR/blob/main/Screenshots/ScenarioPage.png](https://github.com/Avimaslow/SOGR/blob/main/Screenshots/ScenarioPageBlackedOut.png))
 
 ### Key Metrics
 - **SOGR Assets** – Total asset base (29,467 in this view)  
