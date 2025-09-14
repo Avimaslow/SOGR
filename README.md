@@ -13,7 +13,7 @@ This project consolidates data from multiple sources, aligns asset information w
 ![SOGR Assets Overview](https://github.com/Avimaslow/SOGR/blob/main/Screenshots/SOGRMainPageBlackedOut.png)
 
 ### Key Metrics
-- **SOGR Assets** – Total assets in scope (29,467 in this view)  
+- **SOGR Assets** – Total assets in scope 
 - **Assets With No Location Info** – Identifies records missing location data for correction  
 
 ### Install Status
@@ -21,7 +21,7 @@ This project consolidates data from multiple sources, aligns asset information w
 - Provides total counts for operational readiness  
 
 ### Device Breakdown
-- **Device Name** table highlights the most common hardware (OptiPlex, Latitude, etc.)  
+- **Device Name** table highlights the most common hardware
 - **SOGR by Year** bar chart shows replacement volumes over time (2026–2030)  
 
 ### Locations
@@ -35,7 +35,7 @@ This project consolidates data from multiple sources, aligns asset information w
 ![SOGR Monitors](https://github.com/Avimaslow/SOGR/blob/main/Screenshots/MonitorsSogrBlackedOut.png)
 
 ### Key Metrics
-- **SOGR Monitors** – Total monitors in scope (21,226 in this view)  
+- **SOGR Monitors** – Total monitors in scope  
 - **Pending Disposal** – Monitors flagged for retirement  
 
 ### Device Details
@@ -61,9 +61,9 @@ This project consolidates data from multiple sources, aligns asset information w
 ![SOGR Forecasting](https://github.com/Avimaslow/SOGR/blob/main/Screenshots/ScenarioPageBlackedOut.png)
 
 ### Key Metrics
-- **SOGR Assets** – Total asset base (29,467 in this view)  
-- **Projected Finished Date** – Estimated completion of SOGR plan (6/30/2034 here)  
-- **Months Needed** – Remaining duration to achieve completion (102 months in this view)  
+- **SOGR Assets** – Total asset base 
+- **Projected Finished Date** – Estimated completion of SOGR plan 
+- **Months Needed** – Remaining duration to achieve completion 
 
 ### Yearly Targets
 - Adjustable yearly sliders define planned replacement volumes  
