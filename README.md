@@ -10,7 +10,7 @@ This project consolidates data from multiple sources, aligns asset information w
 
 ## Page 1 – Asset Inventory & Install Status
 
-![SOGR Assets Overview]([https://github.com/Avimaslow/SOGR/blob/main/Screenshots/SOGRMainPage.png](https://github.com/Avimaslow/SOGR/blob/main/Screenshots/SOGRMainPage.png))
+![SOGR Assets Overview](https://github.com/Avimaslow/SOGR/blob/main/Screenshots/SOGRMainPage.png)
 
 ### Key Metrics
 - **SOGR Assets** – Total assets in scope (29,467 in this view)  
