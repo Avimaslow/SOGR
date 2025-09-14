@@ -58,7 +58,7 @@ This project consolidates data from multiple sources, aligns asset information w
 
 ## Page 3 – SOGR Planning & Forecasting
 
-![SOGR Forecasting]([https://github.com/Avimaslow/SOGR/blob/main/Screenshots/ScenarioPage.png](https://github.com/Avimaslow/SOGR/blob/main/Screenshots/ScenarioPageBlackedOut.png))
+![SOGR Forecasting](https://github.com/Avimaslow/SOGR/blob/main/Screenshots/ScenarioPageBlackedOut.png)
 
 ### Key Metrics
 - **SOGR Assets** – Total asset base (29,467 in this view)  
